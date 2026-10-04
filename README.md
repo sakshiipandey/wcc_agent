@@ -5,6 +5,13 @@
 
 ---
 
+## 🌐 Live Public Demo URLs
+- 🚀 **Live Worldwide HTTPS URL**: **[https://quickly-scholarships-mike-quit.trycloudflare.com](https://quickly-scholarships-mike-quit.trycloudflare.com)**
+- 📦 **GitHub Repository**: **[https://github.com/sakshiipandey/wcc_agent](https://github.com/sakshiipandey/wcc_agent)**
+- 🏠 **Local URL**: `http://localhost:8080`
+
+---
+
 ## 🌟 The $14.2 Billion Crisis & Our Problem Statement
 Every year, consumers and businesses lose **$14.2 Billion** to predatory recurring charges, stealth subscription rate increases, and unauthorized billing errors. 
 - Over 85% of legitimate disputes under $100 are abandoned by consumers due to 45-minute phone hold times and complicated bank dispute forms.
