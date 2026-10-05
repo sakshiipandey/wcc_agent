@@ -6,7 +6,7 @@
 ---
 
 ## 🌐 Live Public Demo URLs
-- 🚀 **Live Worldwide HTTPS URL**: **[https://quickly-scholarships-mike-quit.trycloudflare.com](https://quickly-scholarships-mike-quit.trycloudflare.com)**
+- 🚀 **Live Worldwide HTTPS URL**: **[https://struck-comp-rico-protect.trycloudflare.com](https://struck-comp-rico-protect.trycloudflare.com)**
 - 📦 **GitHub Repository**: **[https://github.com/sakshiipandey/wcc_agent](https://github.com/sakshiipandey/wcc_agent)**
 - 🏠 **Local URL**: `http://localhost:8080`
 
